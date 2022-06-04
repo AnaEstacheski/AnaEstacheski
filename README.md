@@ -1,6 +1,6 @@
 ## Hello, I am Ana Flavia! 👋
 
-💻	Front-End Developer in training 
+💻	Full-Stack Developer in training 
 
 🔎	Focusing in ReactJS/ReactTS
 
