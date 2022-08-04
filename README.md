@@ -2,8 +2,6 @@
 
 💻	Full-Stack Developer in training 
 
-🔎	Focusing in ReactJS/ReactTS
-
 📈 Learning at the moment how to develop at the VTEX IO plataform
 
 ## 🚀 Technologies & Tools
