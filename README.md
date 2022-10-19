@@ -2,7 +2,7 @@
 
 💻	Full-Stack Developer in training 
 
-📈 Learning at the moment how to develop at the VTEX IO plataform
+📈 Currently halfway through my formation at Driven Education
 
 ## 🚀 Technologies & Tools
 
