@@ -1,8 +1,8 @@
 ## Hello, I am Ana Flavia! 👋
 
-💻	Full-Stack Developer in training 
+💻	Full-Stack Developer
 
-📈 Currently halfway through my formation at Driven Education
+📈 Currently finishing my education at Driven Education!
 
 ## 🚀 Technologies & Tools
 
