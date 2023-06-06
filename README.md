@@ -2,7 +2,7 @@
 
 💻	Full-Stack Developer
 
-📈 Currently finishing my education at Driven Education!
+📈 I’m currently learning Next.js, AWS Cloud!
 
 ## 🚀 Technologies & Tools
 
