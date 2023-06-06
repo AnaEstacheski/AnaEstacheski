@@ -2,7 +2,7 @@
 
 💻	Full-Stack Developer
 
-📈 I’m currently learning Next.js, AWS Cloud!
+📈  I’m currently learning Next.js, AWS Cloud!
 
 ## 🚀 Technologies & Tools
 
